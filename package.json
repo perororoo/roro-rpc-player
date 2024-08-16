@@ -9,5 +9,6 @@
   "scripts": {
     "start": "node .",
     "run": "npm start"
-  }
+  },
+  "license": "MIT"
 }
