@@ -1,4 +1,4 @@
-#How to install & run
+# How to install & run
 - download node.js v22.6.0 - https://nodejs.org/dist/v22.6.0/node-v22.6.0-x64.msi
 - clone this repository (go to "<>code" -> Download ZIP and extract wherever you like
 - go to the extracted folder, and then go to config/config.js and edit the "vlcPath" to your vlc directory (vlc will not start if you forget to hange this!!)
