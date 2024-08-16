@@ -3,7 +3,7 @@
 - clone this repository (go to "<>code" -> Download ZIP and extract wherever you like
 - go to the extracted folder, and then go to config/config.js and edit the "vlcPath" to your vlc directory (vlc will not start if you forget to hange this!!)
 - run start.bat and vlc should open up :D
-  - > <br>_if you want to run the terminal in invisible mode, you can run the start_invisible.vbs script. C:_<br><br>
+> <br>_if you want to run the terminal in invisible mode, you can run the start_invisible.vbs script. C:_<br><br>
 
 
 You can also go to config/config.js and edit the "id" to your discord application!! 
