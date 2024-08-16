@@ -5,6 +5,7 @@
 - run start.bat and vlc should open up :D
   - > _if you want to run the terminal in invisible mode, you can run the start_invisible.vbs script. C:_
 <br><br>
+
 You can also go to config/config.js and edit the "id" to your discord application!! 
 <br><br>
 Credits: <br>
